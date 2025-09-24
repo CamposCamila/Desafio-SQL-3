@@ -5,5 +5,5 @@ No projeto SCRIPT criei uma nova tabela supplier "tabela terceiro fornecedor" on
 No projeto do DIAGRAMA separei as tabelas "terceiro-fornecedor" e "terceiro-verdedor" com suas devidas modificações.
 Foi usado os comandos "show databases", "use ecommerce", "show table", e select * from cliente.
 
-Obs.: Os outros comandos não puderam ser usadospor falta de dados.
+Obs.: Os outros comandos não puderam ser usados por falta de dados.
 
