@@ -6,4 +6,3 @@ No projeto do DIAGRAMA separei as tabelas "terceiro-fornecedor" e "terceiro-verd
 Foi usado os comandos "show databases", "use ecommerce", "show table", e select * from cliente.
 
 Obs.: Os outros comandos não puderam ser usados por falta de dados.
-
