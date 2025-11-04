@@ -1,5 +1,5 @@
 # Desafio-SQL-3
-Refinamento da Modelagem para E-Commerce e Script.
+Refinamento da Modelagem e Script para E-Commerce.
 
 No projeto SCRIPT criei uma nova tabela supplier "tabela terceiro fornecedor" onde consta o CNPJ e modifiquei a tabela seller "tabela terceiro vendedor" para constar somente o CPF.
 No projeto do DIAGRAMA separei as tabelas "terceiro-fornecedor" e "terceiro-verdedor" com suas devidas modificações.
