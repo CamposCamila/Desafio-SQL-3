@@ -1,25 +1,19 @@
 # Desafio-SQL-3
 Refinamento da Modelagem e Script de Banco de Dados para E-Commerce.
 
-No SCRIPT criei uma nova tabela supplier "tabela terceiro fornecedor" onde consta o CNPJ e modifiquei a tabela seller "tabela terceiro vendedor" para constar somente o CPF.
-Na MODELAGEM separei as tabelas "terceiro-fornecedor" e "terceiro-verdedor" com suas devidas modificações.
-Foi usado os comandos "show databases", "use ecommerce", "show table", e select * from cliente.
-
 📘 Sobre o Projeto
 
-Este projeto apresenta a modelagem de um banco de dados para um sistema de E-Commerce, com o objetivo de representar de forma clara e eficiente as principais entidades, relacionamentos e regras de negócio envolvidas em uma loja virtual.
+Este projeto apresenta o refinamento da modelagem e do script de um banco de dados para um sistema de E-Commerce, com o objetivo de fazer melhorias de forma eficiente.
 
-A modelagem foi desenvolvida para servir como base para projetos acadêmicos, estudos de análise de dados ou implementação de sistemas reais.
+A modelagem foi desenvolvida para um Bootcamp de análise de dados.
 
 🧩 Objetivos
 
-Criar uma estrutura relacional organizada e otimizada.
-
-Representar as principais entidades de um E-Commerce, como Clientes, Pedidos, Produtos, Pagamentos e Entregas.
+Refinar a modelagem e o script onde foi criada as tabelas "terceiro-fornecedor", "seller" e "terceiro-vendedor" com suas devidas modificações.
 
 Garantir a integridade referencial e boas práticas de modelagem.
 
-Possibilitar futuras análises de vendas, desempenho e comportamento do cliente.
+Foi usado os comandos "show databases", "use ecommerce", "show table", e select * from cliente.
 
 🗂️ Estrutura do Projeto
 
@@ -33,21 +27,6 @@ Modelo Físico (SQL) – Script SQL para criação das tabelas e restrições.
 
 MySQL
 
-Workbench
-
-Power BI (para análise futura, opcional)
-
-Azure (opcional para hospedagem)
-
-💡 Destaques da Modelagem
-
-Normalização até a 3ª Forma Normal (3FN).
-
-Uso de chaves primárias e estrangeiras bem definidas.
-
-Implementação de restrições de integridade (CHECK, NOT NULL, UNIQUE).
-
-Tabelas voltadas para expansão e integração com sistemas de análise e BI.
 
 🧾 Autor(a)
 
