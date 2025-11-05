@@ -32,6 +32,6 @@ MySQL
 
 👩‍💻 Camila Campos
 
-📚 Estudante de Administração - UFRRJ com foco em Análise de Dados e Inteligência Artificial
+📚 Estudante de Administração - UFRRJ com foco em Análise de Dados e Inteligência Artificial.
 
 🌐 [LinkedIn](https://linkedin.com/in/camilascampos)
